@@ -1,6 +1,6 @@
 # Git-Exercise (Alizae Luy)
 
-In this repository, students will practice using Git and GitHub. Please follow the instruction below to complete your task.
+In this repository, students will practice using Git and GitHub. Please follow the instruction below to complete your task. Alizae Luy
 
 ## Step 1:
 Fork this repository to your GitHub.
